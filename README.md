@@ -1,2 +1,2 @@
-# Netease
-Netease
+shadowsocks=music.desperadoj.com:30001,method=aes-128-gcm, password=desperadoj.com_free_proxy_x80j, tag=🎧𝐌𝐮𝐬𝐢𝐜
+http=106.52.127.72:19951, fast-open=false, udp-relay=false, tag=🎧𝐌𝐮𝐬𝐢𝐜𝟐
